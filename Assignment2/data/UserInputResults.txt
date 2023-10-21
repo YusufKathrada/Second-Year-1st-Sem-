@@ -1,0 +1,10 @@
+AVLExperiment User Input Results:
+
+Randomisation Level: 15
+
+Number of data comparisons for data of size 9919
+Best Case: 1
+Average Case: 25
+Worst Case: 31
+
+Number of insertion-related comparisons: 126575

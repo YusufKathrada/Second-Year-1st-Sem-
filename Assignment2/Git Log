@@ -1,0 +1,120 @@
+yusuf@yusuf-VirtualBox:~/Documents/CSC2001F/Assignments/Assignment2/data$ git log
+commit 78521fe2bb82bbabc04a41bfb61efb8a343c8f8e (HEAD -> master)
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 18:27:38 2022 +0200
+
+    "Added Results10-20"
+
+commit 311347e5ad075f22d024d0e249a938df7e570930
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 18:26:41 2022 +0200
+
+    "Added Results9"
+
+commit 5a439a23916af67dd279e9231d9d87ff1f1e01dc
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 18:25:34 2022 +0200
+
+    "Added Results8"
+
+commit 3896398e2a3eadf87c11cde842c94373b749bfb8
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 18:25:18 2022 +0200
+
+    "Added Results7"
+
+commit b4fd4ada4d355334429d5e3e96affdb094f5e1ea
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 18:24:24 2022 +0200
+
+    "Added Results6"
+
+commit 51481b792ca05bd17564fb1377dff002381d5efa
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 18:23:35 2022 +0200
+
+    "Added Results5"
+
+commit 0a62eb2456faa416b60b25788525709912026e68
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 18:09:39 2022 +0200
+
+    "Added Results4"
+
+commit b4922e1f522e0f8b9b3e53b1dac26a57d0938f09
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 18:09:07 2022 +0200
+
+    "Added Results3"
+
+commit fbc7a7f5c7266faad3e6ee5cbee6c9c9baa49a59
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 17:59:45 2022 +0200
+
+    "Added Results2"
+
+commit 90da13b4856d51343ccb5c7c993cf8ad02d53449
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 17:58:53 2022 +0200
+
+    "Added Results 1"
+
+commit 885a9544a86a5ff9cf6ecb0519444c65e58f5902
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 17:57:46 2022 +0200
+
+    "Added Random =VaccinationList"
+
+commit f190f83e6abc9e522983ae8efbb1752ed0d11e61
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Thu Mar 24 17:53:56 2022 +0200
+
+    Added Makefile
+
+commit 8735a4261bb2a4d33c6b1b1847d3cd9aeeb805d5
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Mon Mar 21 00:35:25 2022 +0200
+
+    "Added AVLExperiment which is the class of the final application"
+
+commit 7b9fa45badf31189ac35aef58ab817e575fe0f36
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Mon Mar 21 00:34:51 2022 +0200
+
+    "Added AVLTree, from given classes"
+
+commit d3b083140b2ff0d763106e4dad20b2291a23426f
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Mon Mar 21 00:34:00 2022 +0200
+
+    "Added AVLTreeTest to test methods and functions which can be used in final application"
+
+commit 2516092d996b3f98da2134339c10fe71739516dc
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Mon Mar 21 00:33:09 2022 +0200
+
+    "Added BinaryTree, from given classes"
+
+commit 41cddcc1573027377371da7a5770c3dff510c784
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Mon Mar 21 00:32:01 2022 +0200
+
+    "Added BinaryTreeNode, from given classes"
+
+commit 90366dd2e1d1ee52a780db9963de31aa7f3f2930
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Mon Mar 21 00:31:04 2022 +0200
+
+    "Added BTQueue, from given classes"
+
+commit f1aa77f88f0cad3bc0ca72988d6ec4615d11dc0c
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Mon Mar 21 00:27:01 2022 +0200
+
+    "Added BTQueueNode, a given class"
+
+commit 36bd62e77793e217aef938054a487eaefaef1625
+Author: Yusuf Kathrada <kthyus001@myuct.ac.za>
+Date:   Mon Mar 21 00:25:22 2022 +0200
+
+    "Added Vaccine file from previous Assignment"
