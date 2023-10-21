@@ -1,0 +1,49 @@
+// Yusuf Kathrada
+// KTHYUS001
+// VaccineArray
+
+
+class VaccineArray
+{
+    Vaccine[] data = new Vaccine[10000];
+    int records = 0;
+    int opCount = 0;       // Counts num of data comparisons
+    
+    public void add (Vaccine V)
+    {
+        data[records] = V;
+        records++;
+    }
+    
+    public Vaccine find (Vaccine V)
+    {
+        // compare to 
+     	for (int x = 0; x < records; x++)
+     	{
+      opCount++;     //instrumentation
+     		if (V.compareTo(data[x]) == 0)
+     		{
+     			return data[x];
+     		}
+     		
+     	}
+     	return null;
+     } 
+     
+      /*public void count()
+      {
+         opCount = opCount +1;
+      }*/
+      
+      public int getCount()
+      {
+         return opCount;
+      }
+      
+      public void clearOpCount()
+      {
+      	opCount = 0;
+      }
+    
+}
+

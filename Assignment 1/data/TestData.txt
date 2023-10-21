@@ -1,0 +1,23 @@
+Dominica,2022-01-09,101
+Armenia,2022-01-09,4895
+Sudan,2022-01-09,8915
+Jamaica,2022-01-09,3811
+Georgia,2022-01-09,5731
+Cape Verde,2022-01-13,2607
+Democratic Republic of Congo,2022-01-13,5760
+Ethiopia,2022-01-13,401
+Senegal,2022-01-13,4472
+Canada,2022-01-13,369777
+Iceland,2022-01-13,3012
+United Kingdom,2022-01-13,216703
+Kuwait,2022-01-13,13444
+Burkina Faso,2022-01-13,7399
+Sint Maarten (Dutch part),2022-01-13,767
+Mongolia,2022-01-13,4298
+Isle of Man,2022-01-13,275
+Vietnam,2022-01-13,1111945
+British Virgin Islands,2022-01-13,22
+Jordan,2022-01-13,35491
+The Will to Live,2022-04,16
+Time to relax,2022-04-17
+Sleep,2022-04-17,18

@@ -1,0 +1,51 @@
+// Yusuf Kathrada
+// KTHYUS001
+// VaccineBSTEntry
+// LATEST CODE
+
+
+public class Entry implements Comparable<Entry>
+{
+   String country;
+   String date;
+   String Vaccinations;
+   
+   public Entry(){}
+   
+   public Entry(String Line)
+   {
+    
+       // ie of line = South Africa, 2020-02-01, 5432
+       
+      String [] Info = Line.split(",");
+      country = Info[0];
+      date = Info[1];
+       
+      if (Info.length == 3)
+      {	
+           Vaccinations = Info[2];
+      } 
+       
+       else
+      {
+           Vaccinations = "0";
+      }
+      //System.out.println(Info.length);
+      //System.out.println(Info[0]+" "+ Info[1] + " " + Info[2]);
+     
+       
+   }
+   
+   public int compareTo (Entry e)
+   {
+      return (country+date).compareTo(e.country+e.date);
+   }
+     
+   
+   public String toString()
+   {
+      return country + " = " + Vaccinations;
+	}
+
+
+}
