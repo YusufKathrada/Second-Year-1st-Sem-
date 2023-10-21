@@ -1,0 +1,1 @@
+select round(buyPrice*0.15,2) as 'biggest' from products order by buyPrice desc limit 1
